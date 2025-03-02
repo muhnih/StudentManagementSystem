@@ -39,10 +39,10 @@ This program is designed for educational institutions to efficiently manage stud
 
 ### Running the Program
 1. Clone or download the repository.
-2. Navigate to the directory containing the `MainFile.py` file.
+2. Navigate to the directory containing the `StudentManagement.py` file.
 3. Run the program using the following command:
    ```bash
-   python MainFile.py
+   python StudentManagement.py
    ```
 
 ### Program Workflow
@@ -67,7 +67,7 @@ This program is designed for educational institutions to efficiently manage stud
 
 - **Student_details.dat**: Stores student details (ID, name, grade, status).
 - **Marks.dat**: Stores student marks for various subjects.
-- **MainFile.py**: The main Python script containing the program logic.
+- **StudentManagement.py**: The main Python script containing the program logic.
 
 ---
 
