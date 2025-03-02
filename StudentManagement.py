@@ -1,5 +1,4 @@
-# MainFile.py
-
+#StudentManagement
 import pickle
 import os
 from tabulate import tabulate
